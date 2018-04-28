@@ -1,13 +1,13 @@
-# qtum-opcodes-js
-The QTUM opcodes map
+# vipstarcoin-opcodes-js
+The VIPSTARCOIN opcodes map
 
 ## Installation
 ``` bash
-npm install qtum-opcodes
+npm install vipstarcoin-opcodes
 ```
 
 ## Setup
 ### Node.js
 ``` javascript
-var ops = require('qtum-opcodes')
+var ops = require('vipstarcoin-opcodes')
 ```

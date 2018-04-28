@@ -1,23 +1,33 @@
 {
-  "name": "qtum-opcodes",
+  "name": "vipstarcoin-opcodes",
   "version": "1.0.0",
-  "description": "The QTUM opcodes map",
+  "description": "The VIPSTARCOIN opcodes map",
   "main": "./index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qtumproject/qtum-opcodes-js.git"
+    "url": "git+https://github.com/fkfk/vipstarcoin-opcodes-js.git"
   },
   "keywords": [
-    "qtum",
+    "vipstarcoin",
+    "vips",
     "opcodes"
   ],
-  "author": "Qtum Weiyu",
+  "author": "Koutarou Tanaka",
+  "authors": [
+    {
+      "name": "Qtum Weiyu"
+    },
+    {
+      "name": "Koutarou Tanaka",
+      "email": "from.kyushu.island@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/qtumproject/qtum-opcodes-js/issues"
+    "url": "https://github.com/fkfk/vipstarcoin-opcodes-js/issues"
   },
-  "homepage": "https://github.com/qtumproject/qtum-opcodes-js#readme"
+  "homepage": "https://github.com/fkfk/vipstarcoin-opcodes-js#readme"
 }
