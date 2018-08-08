@@ -1,6 +1,6 @@
 {
   "name": "vipstarcoin-opcodes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The VIPSTARCOIN opcodes map",
   "main": "./index.json",
   "scripts": {
